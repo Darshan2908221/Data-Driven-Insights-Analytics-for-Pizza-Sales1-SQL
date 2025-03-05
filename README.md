@@ -2,18 +2,23 @@
 <br>
 Author: Darshan Naik
 <br>
-
+<br>
 Mastering SQL with Real-World Pizza Sales Data! 🍕📊
+<br>
 As part of my Data Analyst journey, I worked on a Pizza Sales Analysis Project, leveraging SQL to clean, analyze, and derive key business insights.
-
+<br>
+<br>
 📌 Database Creation & Schema Design
+<br>
 🔹 Creating the Pizza Hut Database
+<br>
 🔹 Defining Orders, Order Details, Pizzas and Pizza types Tables
-
+<br>
+<br>
 📌 Data Manipulation & Cleaning
-🔹 Adding & Modifying Columns in Pizzas Table
-🔹Adding COGS to Pizzas Table
-🔹 Categorizing Time Slots & Time Shifts for Orders 
+<br>🔹 Adding & Modifying Columns in Pizzas Table
+<br>🔹Adding COGS to Pizzas Table
+<br>🔹 Categorizing Time Slots & Time Shifts for Orders 
 
 📌 Basic Data Retrieval
 🔹 Viewing Orders, Order Details, Pizzas, and Pizza Types
